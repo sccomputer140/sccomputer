@@ -1,0 +1,2 @@
+# sccomputer
+my github project 
