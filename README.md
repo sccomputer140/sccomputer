@@ -1,3 +1,3 @@
 # sccomputer
-my github project 
+my github project 1
 author-koushikpaul
